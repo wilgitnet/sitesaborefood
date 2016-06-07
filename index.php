@@ -1,54 +1,21 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-	<meta charset="utf-8">
-	<title>Sabore Food </title>
-	<meta name="description" content="Sabore Food">
-	<meta name="author" content="Allan Santos - allandss.com.br">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="stylesheet" href="style.css">
-	<link rel="stylesheet" href="css/skins/skins.css">
-	<link rel="stylesheet" href="css/responsive.css">
-	<link rel="stylesheet" href="css/font-awesome-4.6.3/css/font-awesome.min.css">
-
-	<!-- <link rel="shortcut icon" href="images/favicon.png"> -->
-</head>
-<body>
-
-<div class="loader"><div class="loader_html"></div></div>
-
-<div id="wrap" class="grid_1200">
-	
-	<div id="header-top" class="header-top-2">
-		<div class="container clearfix">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="header-half-1">Aberto de Terça a Sexta: 9:00h-18:00h, sáb-dom: 9:00h-21:00h</div>
-				</div>
-				<div class="col-md-6">
-					<div class="header-half-2">Atendimento : (11) 2555-6932 <span> | </span>  contato@saborefood.com.br</div>
-				</div>
-			</div>
-		</div><!-- End container -->
-		<div class="re_s_1"></div>
-	</div><!-- End header-top -->
+<?php require_once('header.php'); ?>
 	<header id="header" class="header-4">
 		<div class="container clearfix">
-			<div class="logo"><a href="index.html"><img alt="" src="images/logo-3.png"></a></div>
+			<div class="logo"><a href="index.php"><img alt="" src="images/logo-3.png"></a></div>
 			<div class="row">
 				<div class="col-md-6">
 					<div class="navigation navigation-1">
 						<ul>
-							<li><a href="index.html" class="active-link">Início</a></li>
-							<li><a href="about.html">Sobre</a></li>
+							<li><a href="index.php" class="active-link">Início</a></li>
+							<li><a href="about.php">Sobre</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-md-6">
 					<div class="navigation navigation-2">
 						<ul>
-							<li><a href="menu.html">Cardápio</a></li>
-							<li><a href="contact.html">Contato</a></li>
+							<li><a href="menu.php">Cardápio</a></li>
+							<li><a href="contact.php">Contato</a></li>
 						</ul>
 					</div>
 				</div>
@@ -109,7 +76,7 @@
 							data-start="1800"
 							data-easing="Power3.easeInOut"
 							data-endspeed="500"
-							style="z-index: 3"><a href="menu.html">Ver cardápio</a>
+							style="z-index: 3"><a href="menu.php">Ver cardápio</a>
 						</div>
 					</li>
 					<li data-transition="random" data-slotamount="7" data-masterspeed="1000">
@@ -171,7 +138,7 @@
 					<div class="menu-item">
 						<div class="menu-img"><img alt="" src="images/menu-1.png"></div>
 						<div class="menu-content">
-							<h3><a href="menu.html">Batata Recheada</a></h3>
+							<h3><a href="menu.php">Batata Recheada</a></h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
 							<div class="menu-price">A partir de R$ 10,99</div>
 						</div>
@@ -207,7 +174,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="check-menu"><a href="menu.html">Ver cardápio completo</a></div>
+				<div class="check-menu"><a href="menu.php">Ver cardápio completo</a></div>
 			</div>
 		</div>
 	</div><!-- End section-1 -->
@@ -259,98 +226,11 @@
 					<div class="section-title section-title-2">
 						<div><h3>Entre em contato</h3></div>
 						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.</p>
-						<div class="check-menu border-2"><a href="contact.html">Contato</a></div>
+						<div class="check-menu border-2"><a href="contact.php">Contato</a></div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 	
-	<footer id="footer">
-		<div class="go-up"><i class="fa fa-chevron-up"></i></div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3">
-					<div class="footer-widget footer-widget-1">
-						<h6>Sabore Food</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
-						<div class="footer-social">
-							<ul>
-								<li class=""><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class=""><a href="#"><i class="fa fa-google-plus"></i></a></li>
-								<li class=""><a href="#"><i class="fa fa-twitter" ></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="footer-widget footer-widget-3">
-						<h6>Cardápio</h6>
-						<ul>
-							<li><a href="menu.html#batatarecheada">Batata Recheada</a></li>
-							<li><a href="menu.html#crepe">Crepe Frânces</a></li>
-							<li><a href="menu.html#risoterias">Rossiteria</a></li>
-							<li><a href="menu.html#pratos">Pratos do dia</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="footer-widget footer-widget-3">
-						<h6>Links</h6>
-						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">Sobre</a></li>
-							<li><a href="menu.html">Cardápio</a></li>
-							<li><a href="contact.html">Contato</a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-md-3">
-					<div class="footer-widget footer-widget-4">
-						<h6>Informações</h6>
-						<div class="row">
-							<div class="col-md-4">Telefone:</div>
-							<div class="col-md-8">(11) 2961 - 0629</div>
-							<div class="col-md-4">Email:</div>
-							<div class="col-md-8">contato@saboreweb.com.br</div>
-							<div class="col-md-4">Endereço:</div>
-							<div class="col-md-8">Avenida Lorem ipsum, 12</div>
-							<div class="col-md-4"></div>
-							<div class="col-md-8">Guaianases - São Paulo/SP</div>
-						</div>
-					</div>
-				</div>
-			</div><!-- End row -->
-		</div><!-- End container -->
-	</footer><!-- End footer -->
-	<footer id="footer-bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="copyright">Sabore Food  |  All Rights Reserved</div>
-				</div>
-				<div class="col-md-6">
-					<a class="copyrights" href="http://allandss.com.br">Design by Allandss</a>
-				</div>
-			</div>
-		</div><!-- End container -->
-		<div class="re_s_6"></div>
-	</footer><!-- End footer-bottom -->
-</div><!-- End wrap -->
-
-<!-- js -->
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
-<script src="js/jquery.easing.1.3.min.js"></script>
-<script src="js/html5.js"></script>
-<script src="js/twitter/jquery.tweet.js"></script>
-<script src="js/jquery.inview.min.js"></script>
-<script src="js/jquery.prettyPhoto.js"></script>
-<script src="js/jquery.bxslider.min.js"></script>
-<script src="js/jquery.themepunch.plugins.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/custom.js"></script>
-<!-- End js -->
-
-</body>
-</html>
+<?php require_once('footer.php'); ?>
