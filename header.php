@@ -24,10 +24,10 @@
 		<div class="container clearfix">
 			<div class="row">
 				<div class="col-md-6">
-					<div class="header-half-1">Aberto de Terça a Sexta: 9:00h-18:00h, sáb-dom: 9:00h-21:00h</div>
+					<div class="header-half-1">Aberto de Segunda a Sábado: 08:00 ás 20:00h </div>
 				</div>
 				<div class="col-md-6">
-					<div class="header-half-2">Atendimento : (11) 2555-6932 <span> | </span>  contato@saborefood.com.br</div>
+					<div class="header-half-2">Atendimento : (11) 2961 0629 <span> | </span>  contato@saborefood.com.br</div>
 				</div>
 			</div>
 		</div><!-- End container -->

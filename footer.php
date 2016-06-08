@@ -7,7 +7,7 @@
 				<div class="col-md-3">
 					<div class="footer-widget footer-widget-1">
 						<h6>Sabore Food</h6>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+						<p>Localizada no centro do Bairro de Guaianazes, a Sabore Food oferece pratos diferenciados com sabor incomparável. Buscamos em todos detalhes a excelência, para que assim nossos clientes se sintam valorizados e satisfeitos.</p>
 						<div class="footer-social">
 							<ul>
 								<li class=""><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -23,7 +23,7 @@
 						<ul>
 							<li><a href="menu.php#batatarecheada">Batata Recheada</a></li>
 							<li><a href="menu.php#crepe">Crepe Frânces</a></li>
-							<li><a href="menu.php#risoterias">Rossiteria</a></li>
+							<li><a href="menu.php#risoterias">Rotisseria</a></li>
 							<li><a href="menu.php#pratos">Pratos do dia</a></li>
 						</ul>
 					</div>
@@ -48,9 +48,9 @@
 							<div class="col-md-4">Email:</div>
 							<div class="col-md-8">contato@saboreweb.com.br</div>
 							<div class="col-md-4">Endereço:</div>
-							<div class="col-md-8">Avenida Lorem ipsum, 12</div>
+							<div class="col-md-8">Estrada do Lageado Velho n.468, 12</div> 
 							<div class="col-md-4"></div>
-							<div class="col-md-8">Guaianases - São Paulo/SP</div>
+							<div class="col-md-8">Vila Iolanda - São Paulo/SP</div>
 						</div>
 					</div>
 				</div>

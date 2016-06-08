@@ -78,7 +78,7 @@
 								<ul class="contact-information">
 									<li>Telefone:<br/> <span>(11) 2961 - 0629 </span></li>
 									<li>Email: <br/><span>contato@saborefood.com.br</span></li>
-									<li>Endereço: <br/><span>Avenida Lorem ipsum, 12 Guaianases - São Paulo/SP</span></li>
+									<li>Endereço: <br/><span>Estrada do Lageado Velho  Nº 468  Vila Iolanda – São Paulo/SP</span></li>
 								</ul>
 							</div>
 							<!-- <div class="page-content">

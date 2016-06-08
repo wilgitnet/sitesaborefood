@@ -35,7 +35,7 @@
 				<div class="col-md-12">
 					<div class="section-title">
 						<div><h3>Cardápio</h3><span></span></div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.</p>
+						<p>Nosso cardápio é pensado com muita dedicação para atender aos gostos mais exigentes.</p>
 					</div>
 				</div>
 				<div class="col-md-3 menu-item-3">
@@ -43,7 +43,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-1.png"></div>
 						<div class="menu-content">
 							<h3><a href="menu.php">Batata Recheada</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p>Mais de 15 sabores e um para você!</p>
 							<a href="#batatarecheada"><div class="menu-price">SAIBA MAIS</div></a>
 						</div>
 					</div>
@@ -53,7 +53,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-2.png"></div>
 						<div class="menu-content">
 							<h3><a href="#">Crepe Frânces</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p> Leve, Delicioso e diferente.</p>
 							<a href="#crepe"><div class="menu-price">SAIBA MAIS</div></a>
 						</div>
 					</div>
@@ -62,8 +62,8 @@
 					<div class="menu-item">
 						<div class="menu-img"><img alt="" src="images/menu-3.png"></div>
 						<div class="menu-content">
-							<h3><a href="#">Rossiteria</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<h3><a href="#">Rotisseria</a></h3>
+							<p>As mais deliciosas massas e assados.</p>
 							<a href="#risoterias"><div class="menu-price">SAIBA MAIS</div></a>
 						</div>
 					</div>
@@ -73,7 +73,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-4.png"></div>
 						<div class="menu-content">
 							<h3><a href="#">Pratos do dia</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p>Deliciosas opções de Pratos Executivos.</p>
 							<a href="#pratos"><div class="menu-price">SAIBA MAIS</div></a>
 						</div>
 					</div>
@@ -359,7 +359,7 @@
 										<h3>QUINTA-FEIRA</a></h3>
 										<p>Macarrão com Frango</p>
 										<div class="dishes-footer">
-											<span class="dishes-price">R$ 20,90</span>
+											<span class="dishes-price">R$ 12,50</span>
 											
 										</div>
 									</div>

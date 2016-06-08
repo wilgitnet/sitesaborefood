@@ -115,7 +115,46 @@
 							data-splitout="none" 
 							data-elementdelay="0.1" 
 							data-endelementdelay="0.1" 
-							data-endspeed="500" style="z-index: 6; white-space: pre-line; max-width: 1170px;"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+							data-endspeed="500" style="z-index: 6; white-space: pre-line; max-width: 1170px;"><p>Leves, Deliciosos e diferentes. </p>
+						</div>
+					</li>
+					<li data-transition="random" data-slotamount="7" data-masterspeed="1000">
+						<!-- MAIN IMAGE -->
+						<img src="images/slideshow-2.png" alt="" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+						
+						<div class="slideshow-bg"
+						data-y="310"
+						data-x="center"
+						data-start="0"></div>
+						<!-- LAYERS -->
+						
+		
+						<!-- LAYER NR. 2 -->
+						<div class="slide-h2 tp-caption customin"
+							data-y="320"
+							data-x="center"
+							data-hoffset="0"
+							data-start="600"
+							data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+							data-speed="500"
+							data-easing="Power3.easeInOut"
+							data-endspeed="300"
+							style="z-index: 3"><h2>Pratos do dia</h2>
+						</div>
+						
+						<!-- LAYER NR. 3 -->
+						<div class="slide-p tp-caption black randomrotate skewtoleft tp-resizeme start" 
+							data-x="center" 
+							data-hoffset="0" 
+							data-y="400" 
+							data-speed="500" 
+							data-start="1300" 
+							data-easing="Power3.easeInOut" 
+							data-splitin="none" 
+							data-splitout="none" 
+							data-elementdelay="0.1" 
+							data-endelementdelay="0.1" 
+							data-endspeed="500" style="z-index: 6; white-space: pre-line; max-width: 1170px;"><p>Deliciosas opções de Pratos Executivos e para entrega. </p>
 						</div>
 					</li>
 				</ul>
@@ -139,7 +178,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-1.png"></div>
 						<div class="menu-content">
 							<h3><a href="menu.php">Batata Recheada</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p>Mais de 15 sabores e um para você!</p>
 							<div class="menu-price">A partir de R$ 10,99</div>
 						</div>
 					</div>
@@ -149,7 +188,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-2.png"></div>
 						<div class="menu-content">
 							<h3><a href="#">Crepe Frânces</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p>Leve, Delicioso e diferente.</p>
 							<div class="menu-price">A partir de R$ 11,99</div>
 						</div>
 					</div>
@@ -158,8 +197,8 @@
 					<div class="menu-item">
 						<div class="menu-img"><img alt="" src="images/menu-3.png"></div>
 						<div class="menu-content">
-							<h3><a href="#">Rossiteria</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<h3><a href="#">Rotisseria</a></h3>
+							<p>As mais deliciosas massas e assados.</p>
 							<div class="menu-price">A partir de R$ 4,50</div>
 						</div>
 					</div>
@@ -169,7 +208,7 @@
 						<div class="menu-img"><img alt="" src="images/menu-4.png"></div>
 						<div class="menu-content">
 							<h3><a href="#">Pratos do dia</a></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis.</p>
+							<p>Deliciosas opções de Pratos Executivos.</p>
 							<div class="menu-price">A partir de R$ 11,90</div>
 						</div>
 					</div>
@@ -208,9 +247,9 @@
 				<div class="col-md-6">
 					<div class="section-title">
 						<div><h3 class="align-left">A casa</h3></div>
-						<p class="align-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br/>
+						<p class="align-left">Ambiente aconchegante e familiar.<br/>
 						
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+						Contamos com Wifi
 						</p>
 					</div>
 				</div>
@@ -225,7 +264,7 @@
 				<div class="col-md-12">
 					<div class="section-title section-title-2">
 						<div><h3>Entre em contato</h3></div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer lorem quam, adipiscing condimentum tristique vel, eleifend sed turpis. Pellentesque cursus arcu id magna euismod in elementum purus molestie.</p>
+						<p>Nos envie alguma opnião, ou avaliação do serviço.</p>
 						<div class="check-menu border-2"><a href="contact.php">Contato</a></div>
 					</div>
 				</div>
